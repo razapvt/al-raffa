@@ -1,0 +1,10 @@
+.Normal_Text {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;text-transform: none;color:#5C5C5C;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Quote {font-family:'Open Sans';font-weight:normal;font-style:italic;font-size:24px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Light_Heading_1 {font-family:'Montserrat';font-weight:normal;font-style:normal;font-size:36px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Light_Heading_3 {}
+.Logo_Big {font-family:'Fjalla One';font-weight:normal;font-style:normal;font-size:96px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Symbols {font-family:'FontAwesome';font-weight:normal;font-style:normal;font-size:28px;text-decoration:none;text-transform: none;color:#1EC7DF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_1 {font-family:'Montserrat';font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;text-transform: none;color:#000000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Light_Heading_2 {font-family:'Montserrat';font-weight:normal;font-style:normal;font-size:20px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_3 {font-family:'Montserrat';font-weight:normal;font-style:normal;font-size:64px;text-decoration:none;text-transform: none;color:#1EC7DF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_2 {font-family:'Montserrat';font-weight:normal;font-style:normal;font-size:36px;text-decoration:none;text-transform: none;color:#000000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
